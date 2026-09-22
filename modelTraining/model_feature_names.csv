@@ -1,0 +1,13 @@
+feature_names
+voltage_mean
+voltage_max
+voltage_drop
+current_mean
+temp_mean
+temp_max
+Capacity
+ambient_temperature
+cycle_count
+SoH
+capacity_degradation
+capacity_gradient_pct

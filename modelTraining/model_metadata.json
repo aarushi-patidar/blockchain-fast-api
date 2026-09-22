@@ -1,0 +1,68 @@
+{
+  "n_features": 12,
+  "features": [
+    "voltage_mean",
+    "voltage_max",
+    "voltage_drop",
+    "current_mean",
+    "temp_mean",
+    "temp_max",
+    "Capacity",
+    "ambient_temperature",
+    "cycle_count",
+    "SoH",
+    "capacity_degradation",
+    "capacity_gradient_pct"
+  ],
+  "extracted_features": [
+    "voltage_mean",
+    "voltage_max",
+    "voltage_drop",
+    "current_mean",
+    "temp_mean",
+    "temp_max"
+  ],
+  "engineered_features": [
+    "Capacity",
+    "ambient_temperature",
+    "cycle_count",
+    "SoH",
+    "capacity_degradation",
+    "capacity_gradient_pct"
+  ],
+  "rmse_test": 19.148110628180504,
+  "r2_test": 0.9846408284192322,
+  "mae_test": 6.929656401390381,
+  "eol_threshold": 0.7,
+  "training_samples": 1582,
+  "test_samples": 396,
+  "uses_scaling": true,
+  "scaler_mean": [
+    3.394288861634926,
+    4.1470972980143515,
+    0.8891933198825113,
+    -1.8313749648749071,
+    29.98048126361215,
+    38.10998192483511,
+    1.4156941714923597,
+    20.958543983822043,
+    55.97168857431749,
+    3.5021967164115613,
+    -2.5128135010425017,
+    -7.102189307019604
+  ],
+  "scaler_scale": [
+    0.35405867432487204,
+    0.3939122949858159,
+    0.5356694743186303,
+    0.7531416306329619,
+    13.60492446492805,
+    15.971291032323892,
+    0.4198543716686045,
+    12.379542973384163,
+    50.34219813761288,
+    6.219221010258766,
+    6.214084800387942,
+    29.51113830171001
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-02-14T03:18:13.743046",
+  "battery_metrics": {
+    "initial_capacity": 3.0,
+    "current_capacity": 2.0,
+    "cycle_count": 40,
+    "age_days": 300.0
+  },
+  "health_status": {
+    "SoH": 0.6666666666666666,
+    "status": "POOR",
+    "description": "Significant degradation, limited lifespan"
+  },
+  "predictions": {
+    "predicted_rul_cycles": 51.30671245836104,
+    "model_r2_score": 0.9846408284192322
+  },
+  "recommendations": [
+    "Emergency backup only, can be used in rare scenarios like EXIT lights,etc"
+  ]
+}

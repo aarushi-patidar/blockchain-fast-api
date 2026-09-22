@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-02-13T16:05:47.599414",
+  "battery_metrics": {
+    "initial_capacity": 60.0,
+    "current_capacity": 52.8,
+    "cycle_count": 620,
+    "age_days": 1000.0
+  },
+  "health_status": {
+    "SoH": 0.88,
+    "status": "GOOD",
+    "description": "Minimal degradation, normal operation"
+  },
+  "predictions": {
+    "predicted_rul_cycles": 744.0000000000001,
+    "model_r2_score": 0.9846408284192322
+  },
+  "recommendations": [
+    "Primary power source - general use"
+  ]
+}
