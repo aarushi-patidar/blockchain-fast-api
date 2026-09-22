@@ -1,6 +1,6 @@
-Frontend: https://github.com/aarushi-patidar/blockchain-frontend
-Backend/ Server 1: https://github.com/aarushi-patidar/blockchain-backend
-Fast API/ Server 2: https://github.com/aarushi-patidar/blockchain-fast-api
+> Frontend: https://github.com/aarushi-patidar/blockchain-frontend
+> Backend/ Server 1: https://github.com/aarushi-patidar/blockchain-backend
+> Fast API/ Server 2: https://github.com/aarushi-patidar/blockchain-fast-api
 
 
 # Battery NFT Marketplace – ML Service (FastAPI)
